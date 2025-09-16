@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Why a brutally simple site</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet" />
+  <style>
+    body{margin:0; font-family:"JetBrains Mono", ui-monospace, monospace; line-height:1.6}
+    main{max-width:720px; padding:40px 16px; margin:0 auto}
+    a{color:#2563eb; text-decoration:none}
+    .muted{color:#666}
+    h1{font-size:22px; margin:0 0 8px}
+  </style>
+</head>
+<body>
+<main>
+  <a href="/">← back</a>
+  <h1>Why a brutally simple site</h1>
+  <p class="muted">2025-09-16</p>
+  <article>
+    <p>Plain HTML. No build. No dependency tree. If it’s worth saying, it’s worth loading fast.</p>
+  </article>
+</main>
+</body>
+</html>
