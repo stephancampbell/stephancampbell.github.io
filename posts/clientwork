@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>What I believe</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet" />
+  <style>
+    body{margin:0; font-family:"JetBrains Mono", ui-monospace, monospace; line-height:1.6}
+    main{max-width:720px; padding:40px 16px; margin:0 auto}
+    a{color:#2563eb; text-decoration:none}
+    .muted{color:#666}
+    h1{font-size:22px; margin:0 0 8px}
+  </style>
+</head>
+<body>
+<main>
+  <a href="/">← back</a>
+ <h1>What Do Clients Work On?</h1>
+
+<h2>Client A</h2>
+<p>
+This client and I spend most of our time talking about ontology and metaphysics. 
+This is an individual who has had radical material success in his life by our cultural standards: 
+beautiful wife and children; highly creative, agentic work; plenty of money; etc. 
+He came to work with me in a moment of great disorientation.
+</p>
+<p>
+Individuals who “walk their own path” often experience great loneliness. 
+He has had basically an impossible time finding someone who truly “sees” him. 
+For my part, I’ve read all the same books he has and we have rich conversations.
+</p>
+<p>
+He doesn’t need a taskmaster–he’s far more conscientious than I am. 
+But his north star is to be a teacher in his own right, and our conversations keep him 
+oriented toward those important things.
+</p>
+
+<h2>Client B</h2>
+<p>
+This client came to me while dealing with performance anxiety. 
+(Actually, basically anyone who works with a coach does so to deal with performance anxiety 
+of one form or another. It’s kind of tautological.)  
+Like client A, he is someone operating at high levels, but dealt with extreme guilt around 
+“not doing enough.”
+</p>
+<p>
+The fish cannot understand that sometimes the water in which it swims is polluted. 
+This client and I often discuss at length the effects of the cultural water into which we were born. 
+When an individual like this cannot identify a problem, he often projects that problem inward: 
+the fault must be with him. It’s preposterous, really.
+</p>
+<p>
+While working together this client has paradoxically given himself less and less pressure to “do” 
+and has paradoxically accomplished more.
+</p>
+
+<h2>Client C</h2>
+<p>
+This client came to me with a vision for himself: transitioning to a career in which he became 
+one of those guys clad in Patagonia vests whom you see in airports doing very important things. 
+Before long he actually became that guy. And not long after that he discovered he hated it. 
+I am reminded of a classic essay by Paul Graham.
+</p>
+<p>
+<a href="https://paulgraham.com/love.html" target="_blank" rel="noopener">
+https://paulgraham.com/love.html
+</a>
+</p>
+<p>
+He and I spend much time discussing how cultural expectations have warped his behavior. 
+Our dialogues are, over time, cultivating a kind of “permission” for him to do things 
+that he actually wants to do.
+</p>
+
+<h2>Client D</h2>
+<p>
+This client is the patriarch of a large family and the founder and CEO of a business 
+which employs much of that family.
+</p>
+<p>
+He was caught in a behavioral loop. Whenever something went wrong for someone in the family, 
+blame was directed at my client. My client in turn became angry and turned to distraction 
+and self-abuse to cope. This was something like a Girardian “scapegoat mechanism.” 
+And he got to be the sacrificial lamb over and over again!
+</p>
+<p>
+Our conversations focused on his relationship with himself: the reasons he was getting so mad, 
+for instance. Over time he began to immerse himself in beautiful environments. 
+He traveled to foreign countries and listened to the same audiobook on repeat for weeks on end, 
+for instance.
+</p>
+<p>
+His business grew. His family evolved. And talking to him now feels like talking to Yoda.
+</p>
+
+
+  </article>
+</main>
+</body>
+</html>
